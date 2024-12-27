@@ -2,8 +2,6 @@
 
 # 💫 About Me:
 Computer Science Student at SIT KMUTT<br>I'm from Bangkok, Thailand<br>
-# 💫 About Me:
-Hi, I'm Nattawadee Wuttivoradit<br>Computer Science Student at SIT KMUTT<br>I'm from Bangkok, Thailand<br>
 ![](https://github-readme-stats.vercel.app/api?username=poiure1&theme=great-gatsby&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
 # 💻 Tech Stack:
