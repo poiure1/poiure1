@@ -1,5 +1,4 @@
 # Hi 👋 I'm Nattawadee Wuttivoradit
---
 ✦ **Computer Science Student** at **SIT KMUTT**  
 ✦ Based in **Bangkok, Thailand**  
 
