@@ -1,5 +1,5 @@
 # Hi 👋 I'm Nattawadee Wuttivoradit
-✦  **Computer Science Student** at **SIT KMUTT** 👩🏻‍🎓
+✦  **Computer Science Student** at **SIT KMUTT** 👩🏻‍🎓 <br/>
 ✦  Based in **Bangkok, Thailand** 🇹🇭
 
 ### Tech Stack:
